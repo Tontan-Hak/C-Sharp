@@ -18,6 +18,7 @@ namespace LabExercise1
         {
             Car objCar1;         //part (b) declare an object name of type car
             objCar1 = new Car(); // Part (c) instantiate the object objCar1
+
             // Car objCar1 = new Car();
 
             Console.Write("What is the model of your car: ");
