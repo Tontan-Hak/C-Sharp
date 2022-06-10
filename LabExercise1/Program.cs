@@ -20,8 +20,6 @@ namespace LabExercise1
             objCar1 = new Car(); // Part (c) instantiate the object objCar1
             
 
-
-
             // Car objCar1 = new Car();
 
             Console.Write("What is the model of your car: ");
