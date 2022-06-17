@@ -20,16 +20,17 @@ namespace Lesson01ConsoleApp
             student obj1, obj2;
             obj1 = new student();
             obj2 = new student();
+
             Console.Write("Enter the name for student 1: ");
             obj1.strName = Console.ReadLine();
-            Console.Write("Enter the course name for student 2: ");
-            obj1.strCourse = (Console.WriteLine());
+            Console.Write("Enter the course name for student 1: ");
+            obj1.strCourse = Console.ReadLine();
             Console.Write("Enter the group name for student 1: ");
-            obj1.strGroup = Console.WriteLine();
+            obj1.strGroup = Console.ReadLine();
             Console.Write("Enter the age name for student 1: ");
-            obj1.intAge = int.Parse(Console.WriteLine());
+            obj1.intAge = int.Parse(Console.ReadLine()); 
 
-            Console.WriteLine("Your name is {0}, and you reply your age as {1}, and your Height as {2}", UserName, Age.ToString(), Height);
+            Console.WriteLine("Studnet 1 is {0}, his age is {1}, his group name is {2}", obj1.strName, obj1.intAge, obj1.strGroup);
         }
     }
 }
