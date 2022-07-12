@@ -1,5 +1,5 @@
 # Lesson01ConsoleApp
-'''
+"""
 using System;
 namespace HelloWorld
 {
@@ -11,4 +11,4 @@ namespace HelloWorld
      }
   }
 }
-'''
+"""
