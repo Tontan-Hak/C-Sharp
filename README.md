@@ -1,7 +1,6 @@
 # Lesson01ConsoleApp
 '''
 using System;
-
 namespace HelloWorld
 {
   class Program
