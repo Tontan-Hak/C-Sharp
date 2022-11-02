@@ -1,0 +1,8 @@
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\obj\Debug\HelloWorld_Checked.csproj.AssemblyReference.cache
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\obj\Debug\HelloWorld_Checked.csproj.SuggestedBindingRedirects.cache
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\obj\Debug\HelloWorld_Checked.csproj.CoreCompileInputs.cache
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\bin\Debug\HelloWorld_Checked.exe.config
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\bin\Debug\HelloWorld_Checked.exe
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\bin\Debug\HelloWorld_Checked.pdb
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\obj\Debug\HelloWorld_Checked.exe
+C:\Users\teacher\source\repos\HelloWorld_Checked\HelloWorld_Checked\obj\Debug\HelloWorld_Checked.pdb
