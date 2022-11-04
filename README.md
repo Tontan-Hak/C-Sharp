@@ -1,4 +1,4 @@
-# Lesson01ConsoleApp
+# Object-Oriented program
 ```
 using System;
 
